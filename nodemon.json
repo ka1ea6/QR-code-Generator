@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": ".pug,.css,.js",
+  "ignore": [],
+  "exec": "node ./src/index.js"
+}
